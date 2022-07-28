@@ -1,9 +1,9 @@
 # Alura_NojeJS
 
-#Formação JavaScript para Back-End
+#Formação JavaScript para Back-End \n
 
--> Conhecimento em importar bibliotecas JS a partir do NPM
--> Conhecimento em funções sincronas e assincronas do JavaScript e como funcionam
+-> Conhecimento em importar bibliotecas JS a partir do NPM \n
+-> Conhecimento em funções sincronas e assincronas do JavaScript e como funcionam \n
 -> Conhecimento em REGEX no JavaScript
 
 -> Bibliotecas utilizadas neste exericicio {
