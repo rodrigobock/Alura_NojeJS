@@ -11,7 +11,7 @@ function extraiLinks(texto) {
 }
 
 function trataErro(erro) {
-  throw new Error(erro.code, 'não há arquivo no caminho');
+  throw new Error('não há arquivo no caminho');
 }
 
 async function pegaArquivo(caminhoDoArquivo) {
